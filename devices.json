@@ -3,9 +3,9 @@
     "deviceList": [
         {
             "name": "LookGoong",
-            "type": "LookGoong",
-            "thingType": "JOOM",
             "version": 1,
+            "type": "JOOM",
+            "component": "JOOM_V1",
             "field": [
                 {
                     "id": "1",
@@ -51,8 +51,9 @@
         },
         {
             "name": "LabBox",
-            "type": "SOOB",
             "version": 1,
+            "type": "SOOB",
+            "component": "SOOB_V1",
             "field": [
                 {
                     "id": "1",
