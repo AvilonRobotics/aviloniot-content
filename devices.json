@@ -1,0 +1,100 @@
+{
+    "description": "This json is configuration file for our device types",
+    "deviceList": [
+        {
+            "name": "LookGoong",
+            "type": "LookGoong",
+            "thingType": "JOOM",
+            "version": 1,
+            "field": [
+                {
+                    "id": "1",
+                    "name": "DO",
+                    "unit": "mg/L"
+                },
+                {
+                    "id": "2",
+                    "name": "pH",
+                    "unit": ""
+                },
+                {
+                    "id": "3",
+                    "name": "TempWater",
+                    "unit": "°C"
+                },
+                {
+                    "id": "4",
+                    "name": "TempAir",
+                    "unit": "°C"
+                },
+                {
+                    "id": "5",
+                    "name": "Humidity",
+                    "unit": "%"
+                }
+            ],
+            "features": {
+                "calibrate": [
+                    {
+                        "field": "DO",
+                        "version": 1
+                    },
+                    {
+                        "field": "pH",
+                        "version": 1
+                    }
+                ],
+                "aeratorController": {
+                    "version": 1
+                }
+            }
+        },
+        {
+            "name": "LabBox",
+            "type": "SOOB",
+            "version": 1,
+            "field": [
+                {
+                    "id": "1",
+                    "name": "DO",
+                    "unit": "mg/L"
+                },
+                {
+                    "id": "2",
+                    "name": "pH",
+                    "unit": ""
+                },
+                {
+                    "id": "3",
+                    "name": "TempWater",
+                    "unit": "°C"
+                },
+                {
+                    "id": "4",
+                    "name": "TempAir",
+                    "unit": "°C"
+                },
+                {
+                    "id": "5",
+                    "name": "Humidity",
+                    "unit": "%"
+                }
+            ],
+            "features": {
+                "calibrate": [
+                    {
+                        "field": "DO",
+                        "version": 1
+                    },
+                    {
+                        "field": "pH",
+                        "version": 1
+                    }
+                ],
+                "aeratorController": {
+                    "version": 1
+                }
+            }
+        }
+    ]
+}
