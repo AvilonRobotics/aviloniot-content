@@ -51,6 +51,10 @@
     "Warn when DO lower than":"แจ้งเตือนเมื่อค่า DO ต่ำกว่า",
     "On":"เปิด",
     "Off":"ปิด",
-    "Auto":"อัตโนมัติ"
+    "Auto":"อัตโนมัติ",
+    "Edit location": "เปลี่ยนสถานที่",
+    "Select province": "เลือกจังหวัด",
+    "Select district": "เลือกอำเภอ",
+    "Select subdistrict": "เลือกตำบล"
   }
 }
