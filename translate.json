@@ -57,6 +57,9 @@
     "Select district": "เลือกอำเภอ",
     "Select subdistrict": "เลือกตำบล",
     "previous": "ก่อนหน้า",
-    "next": "ถัดไป"
+    "next": "ถัดไป",
+    "Other Settings": "การตั้งค่าอื่นๆ",
+    "Calibrate DO": "คาลิเบรท DO",
+    "Calibrate pH": "คาลิเบรท pH"
   }
 }
