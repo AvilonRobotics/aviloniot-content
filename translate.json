@@ -60,6 +60,7 @@
     "next": "ถัดไป",
     "Other Settings": "การตั้งค่าอื่นๆ",
     "Calibrate DO": "คาลิเบรท DO",
-    "Calibrate pH": "คาลิเบรท pH"
+    "Calibrate pH": "คาลิเบรท pH",
+    "Notification destination": "ช่องทางการแจ้งเตือน"
   }
 }
