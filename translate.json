@@ -2,7 +2,8 @@
   "en":{
     "Home":"Home",
     "SignInHeader":"Sign in to your account",
-    "Aerator settings":"Settings"
+    "Aerator settings":"Settings",
+    "MAGNITUDE": "Smart detection"
   },
   "th":{
     "Home":"หน้าหลัก",
