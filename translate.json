@@ -81,6 +81,8 @@
     "Confirm": "ยืนยัน",
     "Destinations": "ช่องทางการแจ้งเตือน",
     "Choose destinations": "เลือกช่องทางการแจ้งเตือน",
-    "Summary": "สรุปผล"
+    "Summary": "สรุปผล",
+    "connected": "ออนไลน์",
+    "disconnected": "ออฟไลน์"
   }
 }
