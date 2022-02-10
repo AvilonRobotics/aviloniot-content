@@ -83,6 +83,9 @@
     "Choose destinations": "เลือกช่องทางการแจ้งเตือน",
     "Summary": "สรุปผล",
     "connected": "ออนไลน์",
-    "disconnected": "ออฟไลน์"
+    "disconnected": "ออฟไลน์",
+    "Last day": "เมื่อวาน",
+    "Max": "สูงสุด",
+    "Min": "ต่ำสุด"
   }
 }
