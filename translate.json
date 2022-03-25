@@ -92,6 +92,12 @@
     "Setting": "การตั้งค่า",
     "Mode": "โหมด",
     "Manual Off": "กำหนดเอง - ปิด",
-    "Manual On": "กำหนดเอง - เปิด"
+    "Manual On": "กำหนดเอง - เปิด",
+    "Air Temperature Warning": "Air Temperature Warning",
+    "Humidity Warning": "Humidity Warning",
+    "DO Warning": "DO Warning",
+    "pH Warning": "pH Warning",
+    "Watertemp Warning": "Watertemp Warning",
+    "EC Warning": "EC Warning"
   }
 }
