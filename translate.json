@@ -93,11 +93,11 @@
     "Mode": "โหมด",
     "Manual Off": "กำหนดเอง - ปิด",
     "Manual On": "กำหนดเอง - เปิด",
-    "Air Temperature Warning": "Air Temperature Warning",
-    "Humidity Warning": "Humidity Warning",
-    "DO Warning": "DO Warning",
-    "pH Warning": "pH Warning",
-    "Watertemp Warning": "Watertemp Warning",
-    "EC Warning": "EC Warning"
+    "Air Temperature Warning": "การแจ้งเตือนอุณหภูมิอากาศ",
+    "Humidity Warning": "การแจ้งเตือนความชื้น",
+    "DO Warning": "การแจ้งเตือนค่าออกซิเจนละลาย (DO)",
+    "pH Warning": "การแจ้งเตือนความเป็นกรด-เบส (pH)",
+    "Watertemp Warning": "การแจ้งเตือนอุณหภูมิน้ำ",
+    "EC Warning": "การแจ้งเตือนการนำไฟฟ้าของน้ำ (EC)"
   }
 }
