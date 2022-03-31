@@ -1,0 +1,10 @@
+{
+    "fields": [
+        "DO",
+        "pH",
+        "EC",
+        "Humidity",
+        "TempAir",
+        "TempWater"
+    ]
+}
