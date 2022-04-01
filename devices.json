@@ -96,6 +96,54 @@
                     "version": 1
                 }
             }
-        }
+        },
+        {
+            "name": "LookGoong",
+            "version": 1,
+            "type": "LOOKGOONG",
+            "component": "LOOKGOONG",
+            "field": [
+                {
+                    "id": "1",
+                    "name": "DO",
+                    "unit": "mg/L"
+                },
+                {
+                    "id": "2",
+                    "name": "pH",
+                    "unit": ""
+                },
+                {
+                    "id": "3",
+                    "name": "TempWater",
+                    "unit": "°C"
+                },
+                {
+                    "id": "4",
+                    "name": "TempAir",
+                    "unit": "°C"
+                },
+                {
+                    "id": "5",
+                    "name": "Humidity",
+                    "unit": "%"
+                }
+            ],
+            "features": {
+                "calibrate": [
+                    {
+                        "field": "DO",
+                        "version": 1
+                    },
+                    {
+                        "field": "pH",
+                        "version": 1
+                    }
+                ],
+                "aeratorController": {
+                    "version": 1
+                }
+            }
+        },
     ]
 }
