@@ -46,7 +46,28 @@
                 ],
                 "aeratorController": {
                     "version": 1
-                }
+                },
+                "PumpInterval": [
+                    {
+                        "id": "1"
+                    }
+                ],
+                "PondEnable": [
+                    {
+                        "id": "1"
+                    }
+                ],
+                "FlushInterval": true,
+                "WarningSetting": [
+                    {
+                        "id": "1"
+                    }
+                ],
+                "AeratorModeSetting": [
+                    {
+                        "id": "1"
+                    }
+                ]
             }
         },
         {
@@ -94,7 +115,64 @@
                 ],
                 "aeratorController": {
                     "version": 1
-                }
+                },
+                "PumpInterval": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "4"
+                    }
+                ],
+                "PondEnable": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "4"
+                    }
+                ],
+                "FlushInterval": true,
+                "WarningSetting": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "4"
+                    }
+                ],
+                "AeratorModeSetting": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "4"
+                    }
+                ]
             }
         },
         {
