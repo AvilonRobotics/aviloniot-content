@@ -44,20 +44,9 @@
                         "version": 1
                     }
                 ],
-                "aeratorController": {
+                "aeratorControl": {
                     "version": 1
                 },
-                "PumpInterval": [
-                    {
-                        "id": "1"
-                    }
-                ],
-                "PondEnable": [
-                    {
-                        "id": "1"
-                    }
-                ],
-                "FlushInterval": true,
                 "WarningSetting": [
                     {
                         "id": "1"
@@ -113,7 +102,7 @@
                         "version": 1
                     }
                 ],
-                "aeratorController": {
+                "aeratorControl": {
                     "version": 1
                 },
                 "PumpInterval": [
@@ -218,7 +207,7 @@
                         "version": 1
                     }
                 ],
-                "aeratorController": {
+                "aeratorControl": {
                     "version": 1
                 }
             }
