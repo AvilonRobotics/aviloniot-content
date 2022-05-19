@@ -10,27 +10,32 @@
                 {
                     "id": "1",
                     "name": "DO",
-                    "unit": "mg/L"
+                    "unit": "mg/L",
+                    "desc": "Dissolved Oxygen"
                 },
                 {
                     "id": "2",
                     "name": "pH",
-                    "unit": ""
+                    "unit": "",
+                    "desc": "Potential of Hydrogen"
                 },
                 {
                     "id": "3",
                     "name": "TempWater",
-                    "unit": "°C"
+                    "unit": "°C",
+                    "desc": "Water Temp"
                 },
                 {
                     "id": "4",
                     "name": "TempAir",
-                    "unit": "°C"
+                    "unit": "°C",
+                    "desc": "Air Temp"
                 },
                 {
                     "id": "5",
                     "name": "Humidity",
-                    "unit": "%"
+                    "unit": "%",
+                    "desc": "Humidity"
                 }
             ],
             "features": {
@@ -68,27 +73,32 @@
                 {
                     "id": "1",
                     "name": "DO",
-                    "unit": "mg/L"
+                    "unit": "mg/L",
+                    "desc": "Dissolved Oxygen"
                 },
                 {
                     "id": "2",
                     "name": "pH",
-                    "unit": ""
+                    "unit": "",
+                    "desc": "Potential of Hydrogen"
                 },
                 {
                     "id": "3",
                     "name": "TempWater",
-                    "unit": "°C"
+                    "unit": "°C",
+                    "desc": "Water Temp"
                 },
                 {
                     "id": "4",
                     "name": "TempAir",
-                    "unit": "°C"
+                    "unit": "°C",
+                    "desc": "Air Temp"
                 },
                 {
                     "id": "5",
                     "name": "Humidity",
-                    "unit": "%"
+                    "unit": "%",
+                    "desc": "Humidity"
                 }
             ],
             "features": {
@@ -173,27 +183,32 @@
                 {
                     "id": "1",
                     "name": "DO",
-                    "unit": "mg/L"
+                    "unit": "mg/L",
+                    "desc": "Dissolved Oxygen"
                 },
                 {
                     "id": "2",
                     "name": "pH",
-                    "unit": ""
+                    "unit": "",
+                    "desc": "Potential of Hydrogen"
                 },
                 {
                     "id": "3",
                     "name": "TempWater",
-                    "unit": "°C"
+                    "unit": "°C",
+                    "desc": "Water Temp"
                 },
                 {
                     "id": "4",
                     "name": "TempAir",
-                    "unit": "°C"
+                    "unit": "°C",
+                    "desc": "Air Temp"
                 },
                 {
                     "id": "5",
                     "name": "Humidity",
-                    "unit": "%"
+                    "unit": "%",
+                    "desc": "Humidity"
                 }
             ],
             "features": {
