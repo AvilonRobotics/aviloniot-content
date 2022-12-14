@@ -207,6 +207,122 @@
             }
         },
         {
+            "name": "LabBox V2",
+            "version": 1,
+            "type": "SOOB_V2",
+            "component": "SOOB_V1",
+            "field": [
+                {
+                    "id": "1",
+                    "name": "DO",
+                    "unit": "mg/L",
+                    "desc": "Dissolved Oxygen"
+                },
+                {
+                    "id": "2",
+                    "name": "DO percent",
+                    "unit": "",
+                    "desc": "Dissolved Oxygen Percent"
+                },
+                {
+                    "id": "3",
+                    "name": "pH",
+                    "unit": "",
+                    "desc": "Potential of Hydrogen"
+                },
+                {
+                    "id": "4",
+                    "name": "TempWater",
+                    "unit": "°C",
+                    "desc": "Water Temp"
+                },
+                {
+                    "id": "5",
+                    "name": "TempAir",
+                    "unit": "°C",
+                    "desc": "Air Temp"
+                },
+                {
+                    "id": "6",
+                    "name": "Humidity",
+                    "unit": "%",
+                    "desc": "Humidity"
+                }
+            ],
+            "features": {
+                "calibrate": [
+                    {
+                        "field": "DO",
+                        "version": 1
+                    },
+                    {
+                        "field": "pH",
+                        "version": 1
+                    }
+                ],
+                "aeratorControl": {
+                    "version": 1
+                },
+                "PumpInterval": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "4"
+                    }
+                ],
+                "PondEnable": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "4"
+                    }
+                ],
+                "FlushInterval": true,
+                "WarningSetting": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "4"
+                    }
+                ],
+                "AeratorModeSetting": [
+                    {
+                        "id": "1"
+                    },
+                    {
+                        "id": "2"
+                    },
+                    {
+                        "id": "3"
+                    },
+                    {
+                        "id": "4"
+                    }
+                ]
+            }
+        },
+        {
             "name": "LookGoong",
             "version": 1,
             "type": "LOOKGOONG",
