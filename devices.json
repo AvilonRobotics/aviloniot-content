@@ -220,7 +220,7 @@
                 },
                 {
                     "id": "2",
-                    "name": "DO percent",
+                    "name": "DO_percent",
                     "unit": "",
                     "desc": "Dissolved Oxygen Percent"
                 },
