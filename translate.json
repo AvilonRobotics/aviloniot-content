@@ -3,7 +3,8 @@
     "Home":"Home",
     "SignInHeader":"Sign in to your account",
     "Aerator settings":"Settings",
-    "MAGNITUDE": "Smart detection"
+    "MAGNITUDE": "Smart detection",
+    "DO_percent": "DO percent"
   },
   "th":{
     "Home":"หน้าหลัก",
@@ -100,6 +101,7 @@
     "Watertemp Warning": "การแจ้งเตือนอุณหภูมิน้ำเมื่อมีค่าสูงกว่า",
     "EC Warning": "การแจ้งเตือนการนำไฟฟ้าของน้ำ (EC) เมื่อมีค่าสูงกว่า",
     "Copy value": "ใช้ค่าเดียวกันทุกบ่อ",
-    "Clear": "ยกเลิก"
+    "Clear": "ยกเลิก",
+    "DO_percent": "DO percent"
   }
 }
