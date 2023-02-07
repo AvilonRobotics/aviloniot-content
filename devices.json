@@ -15,24 +15,30 @@
                 },
                 {
                     "id": "2",
+                    "name": "DO_percent",
+                    "unit": "",
+                    "desc": "Dissolved Oxygen Percent"
+                },
+                {
+                    "id": "3",
                     "name": "pH",
                     "unit": "",
                     "desc": "Potential of Hydrogen"
                 },
                 {
-                    "id": "3",
+                    "id": "4",
                     "name": "TempWater",
                     "unit": "°C",
                     "desc": "Water Temp"
                 },
                 {
-                    "id": "4",
+                    "id": "5",
                     "name": "TempAir",
                     "unit": "°C",
                     "desc": "Air Temp"
                 },
                 {
-                    "id": "5",
+                    "id": "6",
                     "name": "Humidity",
                     "unit": "%",
                     "desc": "Humidity"
