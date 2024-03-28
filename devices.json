@@ -380,6 +380,46 @@
                     "version": 1
                 }
             }
+        },
+        {
+            "name": "Seismic monitor",
+            "version": 1,
+            "type": "SEISMICMONITOR",
+            "component": "SEISMICMONITOR",
+            "field": [
+                {
+                    "id": "1",
+                    "name": "ACC_X",
+                    "unit": "m/s2",
+                    "desc": "Linear Acceleration X"
+                },
+                {
+                    "id": "2",
+                    "name": "ACC_Y",
+                    "unit": "m/s2",
+                    "desc": "Linear Acceleration Y"
+                },
+                {
+                    "id": "3",
+                    "name": "ACC_Z",
+                    "unit": "m/s2",
+                    "desc": "Linear Acceleration Z"
+                },
+                {
+                    "id": "4",
+                    "name": "Roll",
+                    "unit": "Degree",
+                    "desc": "Roll Angle"
+                },
+                {
+                    "id": "5",
+                    "name": "Pitch",
+                    "unit": "Degree",
+                    "desc": "Pitch Angle"
+                }
+            ],
+            "features": {
+            }
         }
     ]
 }
