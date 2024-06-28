@@ -92,6 +92,9 @@
         "gyro_z",
         "roll",
         "pitch",
-        "temperature"
+        "temperature",
+        "v_bat",
+        "v_solar",
+        "rssi"
     ]
 }
