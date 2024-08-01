@@ -95,6 +95,14 @@
         "temperature",
         "v_bat",
         "v_solar",
-        "rssi"
+        "rssi",
+        "temeperature#0",
+        "temeperature#1",
+        "temeperature#2",
+        "temeperature#3",
+        "humidity#0",
+        "humidity#1",
+        "humidity#2",
+        "humidity#3"
     ]
 }
